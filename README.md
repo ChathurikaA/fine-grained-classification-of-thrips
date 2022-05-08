@@ -1,1 +1,1 @@
-# fine-grained-classification-of-thrips
+# Fine Grained Classification of Thrip Species
