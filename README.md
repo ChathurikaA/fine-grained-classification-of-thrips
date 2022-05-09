@@ -1,1 +1,2 @@
 # Fine Grained Classification of Thrip Species
+Thrips are one of the major worldwide crop pest that can be found in wide range of crops. Thrips are small in size (~1mm) and differences in appearance between some key species can be difficult to discern. However, their accurate identification to species level is essential to agriculture. Hence, this repository contains a softwaretools that cable of classifying two major thrip pest species - Western Flower Thrips (WFTs) and Plague Thrip. 
