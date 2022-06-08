@@ -9,7 +9,7 @@ In addition, we provide with you a dataset that consists of microscopic images o
 The pretrained model can be found in https://drive.google.com/drive/folders/1hQR7v0s5gdwIuLM84T-cYpaBePUQqVVx?usp=sharing
 
 #### How to predict the label for a thrip image dataset
-1. Open the **WesternFlowerThrip_or_PlagueThrips.ipynb**  file using Jupuyer Notebook or Colab notebooks
+1. Open the **WesternFlowerThrip_or_PlagueThrips**  file using Jupyter Notebook or Colab Notebook
 2. Replace the **PATH** with the path to the image folder you want to test
 3. Replace the **path_for_models** with the path to the pre-trained models
 4. Direct **path_to_save** to a temporary folder where you would like to save temporary results
